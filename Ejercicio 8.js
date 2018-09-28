@@ -5,4 +5,5 @@ function matriz(matriz1, matriz2){
             matriz3[i][j] = matriz1[i][j] + matriz2[i][j]; 
         }
     }
+    console.log(matriz3);
 }
